@@ -1,4 +1,4 @@
-## makeCacheMatrix creates functions that can cache the inverse of a matrix
+## makeCacheMatrix creates the functions that can cache the inverse of a matrix
 
 ## set sets the matrix, get gets the matrix, setinv sets the inverse of the matrix, getinv gets the inverse of the matrix
 
